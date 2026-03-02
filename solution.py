@@ -2,7 +2,7 @@
 ## Student ID:
 
 """
-Task A: Timeslot Recommender (Stub)
+Task A: Appointment Timeslot Recommender (Stub)
 In this lab, you will design and implement an Appointment Slot Recommender using an LLM assistant as your primary programming collaborator. You are asked to implement a Python module that recommends available meeting slots within a defined working window. The system must:
 •	Accept working hours (start and end time).
 •	Accept a list of existing busy intervals.
