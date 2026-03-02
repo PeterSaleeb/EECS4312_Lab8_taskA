@@ -174,3 +174,8 @@ def test_a5_buffer_eliminates_small_gaps():
 
     # Buffer should not increase number of available slots (monotonicity)
     assert len(out_with_buffer) <= len(out_no_buffer)
+
+
+#################################################################################
+# Add your own additional tests here to cover more cases and edge cases as needed.
+#################################################################################
